@@ -1,1 +1,1 @@
-java -cp DLUnit_autograde.jar edu.gvsu.cis351.UnsignedAdderLab
+yes | java -cp DLUnit_autograde.jar edu.gvsu.cis351.UnsignedAdderLab
