@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test",
+      "setup": "curl https://www.cis.gvsu.edu/~kurmasz/Autograder/DLUnit_autograde.jar --output DLUnit_autograde.jar",
+      "run": "sh ./runTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
